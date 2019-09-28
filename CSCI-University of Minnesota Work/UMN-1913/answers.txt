@@ -1,0 +1,5 @@
+Based on your graph, for what array sizes is linear search more efficient than binary search?  Based on my graph for sizes 1,2,4,5 they both make the same amount of comparisons. But for these values linear search is more efficient because it uses and changes less variables
+	Based on your graph, for what array sizes is binary search more efficient than linear search? Arrays with size 3 and anything larger then size of 5 binary search is more efficient
+
+
+ http://localhost/?code=AQCdxykw9FDgrTC896ZTQswwLZWuGvaT33srBJ1AP_-TjjEifKMM79_WvSt2InNGOlkRdhRgTqHsyyjy2x4PoITOhWgQLWXL0JujHNLx57qXtm7BWEOex9Ng7tCZ0y2alp-aq9Uh1ufz2y_IU4dHecCGjGNBDI3Lo99AmOaGRUXRa4Y5sOWggFuxSBrKU8UxCRzSrcrLo2Gr1WAIgFCe6cBYA-Q
